@@ -71,7 +71,7 @@ importers:
         specifier: ^5.8.2
         version: 5.9.3
 
-  libs/components:
+  libs:
     dependencies:
       react:
         specifier: ^19.0.0
