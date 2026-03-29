@@ -9,6 +9,7 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
+    "@repo/ui": "workspace:*",
     "jotai": "^2.10.3",
     "next": "^15.2.4",
     "react": "^19.0.0",

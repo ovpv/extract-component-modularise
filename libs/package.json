@@ -10,11 +10,11 @@
   },
   "exports": {
     ".": {
-      "import": "./dist/index.js",
-      "types": "./dist/index.d.ts"
+      "import": "./src/index.ts",
+      "default": "./src/index.ts"
     }
   },
-  "files": ["dist"],
+  "files": ["src"],
   "devDependencies": {
     "@types/react": "^19.0.10",
     "@vitejs/plugin-react": "^4.3.4",
